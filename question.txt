@@ -1,0 +1,17 @@
+How can you use the commands git log and git diff to view the history of files?
+
+How might using version control make you more confident to make changes that could break something?
+Alot more confident then before
+
+Now that you have your workspace set up, what do you want to try using Git for?
+do some more pratice to work and see how git works.
+
+what happens when you initialize a repository? Why do you need to do it?
+Initialized empty Git repository in /home/elon/git/lesson 2/.git/
+
+How is the staging area different from the working directory and the repository?
+
+What value do you think it offers?
+
+How can you use the staging area to make sure you have one commit per logical change?
+we can use git  diff to see the change has just one logic
